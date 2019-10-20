@@ -85,8 +85,11 @@
         },
         {
             "name": "Steven Schoor",
-            "github": "SSchoor163",
-            "twitter": ""
+            "github": "SSchoor163"
+        },
+        {
+            "name": "Anthony Perez",
+            "github": "antrp93LCA"
         }
     ]
 }
